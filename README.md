@@ -1,24 +1,28 @@
 <div align="center">
-  
-  <!-- Header con animación de onda -->
-  <img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Ronald%20Azuero!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
-  
-  <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=🚀+Desarrollador+Web+Full+Stack;💻+Estudiante+de+ITI+-+UTMACH;⚡+Especialista+en+Angular+%26+Node.js;🇪🇨+Desde+Piñas,+El+Oro+-+Ecuador;🌱+Apasionado+por+la+Innovación;🎯+Creando+el+futuro+línea+por+línea;✨+¡Bienvenido+a+mi+GitHub!" alt="Typing SVG" />
-  
-  <!-- Contador de visitas con estilo -->
-  <img src="https://komarev.com/ghpvc/?username=Sherman95&style=for-the-badge&color=0e75b6&label=VISITANTES" alt="Profile Views"/>
-  
-  <!-- Trofeo dinámico -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Sherman95&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" />
-  
-  <!-- Texto con animación -->
-  <h3>
+
+<!-- Header con animación de onda -->
+<img width="100%" height="200" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=¡Hola,%20soy%20Ronald%20Azuero!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+<!-- Typing Animation Mejorada -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=🚀+Desarrollador+Web+Full+Stack;💻+Estudiante+de+ITI+en+UTMACH;⚡+Especialista+en+Angular+%26+Node.js;🇪🇨+Desde+Piñas%2C+El+Oro+-+Ecuador;🌱+Apasionado+por+la+Innovación;🎯+Creando+el+futuro+línea+por+línea;✨+¡Bienvenido+a+mi+GitHub!;🔥+Construyendo+apps+increíbles" alt="Typing SVG" />
+</a>
+
+<!-- Contador de visitas con estilo -->
+<img src="https://komarev.com/ghpvc/?username=Sherman95&style=for-the-badge&color=0e75b6&label=VISITANTES" alt="Profile Views"/>
+
+<!-- Trofeo dinámico -->
+<img src="https://github-profile-trophy.vercel.app/?username=Sherman95&theme=algolia&no-frame=true&no-bg=true&row=1&column=4" />
+
+<!-- Texto con animación -->
+<h3>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="35"/>
-    ¡Hola! Soy estudiante de ITI en la UTMACH y desarrollador apasionado 🇪🇨
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=2000&color=F75C7E&center=true&vCenter=true&width=600&lines=¡Hola!+Soy+estudiante+de+ITI+en+la+UTMACH;Desarrollador+apasionado+desde+Ecuador+🇪🇨;Construyendo+el+futuro+con+código+💻" alt="Typing SVG" />
+    </a>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35"/>
-  </h3>
-  
+</h3>
+
 </div>
 
 ---
@@ -71,8 +75,8 @@ class RonaldAzuero implements Developer {
 ## 🎓 Mi Trayectoria Académica
 
 <div align="center">
-  
-  <table>
+
+<table>
     <tr>
       <td align="center">
         <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" width="60"/>
@@ -90,8 +94,8 @@ class RonaldAzuero implements Developer {
         <br>🔧 DevOps & Cloud
       </td>
     </tr>
-  </table>
-  
+</table>
+
 </div>
 
 ---
@@ -116,16 +120,16 @@ class RonaldAzuero implements Developer {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sherman95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherman95&layout=compact&langs_count=8&theme=tokyonight"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherman95&theme=tokyonight&hide_border=true"/>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherman95&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&bg_color=0d1117&line=58a6ff&point=f85149"/>
-  
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sherman95&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherman95&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<!-- Streak Stats -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sherman95&theme=tokyonight&hide_border=true"/>
+
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sherman95&theme=tokyo-night&hide_border=true&area=true&color=58a6ff&bg_color=0d1117&line=58a6ff&point=f85149"/>
+
 </div>
 
 ---
@@ -133,18 +137,18 @@ class RonaldAzuero implements Developer {
 ## 🔥 Contribuciones y Actividad
 
 <div align="center">
-  
-  <!-- Mapa de calor de contribuciones -->
-  <img src="https://ghchart.rshah.org/58a6ff/Sherman95" alt="Contribution Chart" width="80%"/>
-  
-  <!-- Widgets de repositorios -->
-  <table>
+
+<!-- Mapa de calor de contribuciones -->
+<img src="https://ghchart.rshah.org/58a6ff/Sherman95" alt="Contribution Chart" width="80%"/>
+
+<!-- Widgets de repositorios -->
+<table>
     <tr>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sherman95&repo=gym-management-system&theme=tokyonight&show_owner=true"/></td>
       <td><img src="https://github-readme-stats.vercel.app/api/pin/?username=Sherman95&repo=iot-garden-dashboard&theme=tokyonight&show_owner=true"/></td>
     </tr>
-  </table>
-  
+</table>
+
 </div>
 
 ---
@@ -152,11 +156,11 @@ class RonaldAzuero implements Developer {
 ## 💻 Lenguajes de Programación
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherman95&theme=tokyonight&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117"/>
-  
-  <!-- Progreso por tecnologías -->
-  <table>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sherman95&theme=tokyonight&layout=donut&langs_count=8&hide_border=true&bg_color=0d1117"/>
+
+<!-- Progreso por tecnologías -->
+<table>
     <tr>
       <td align="center"><img src="https://img.shields.io/badge/Angular-90%25-red?style=for-the-badge&logo=angular"/></td>
       <td align="center"><img src="https://img.shields.io/badge/TypeScript-85%25-blue?style=for-the-badge&logo=typescript"/></td>
@@ -165,8 +169,8 @@ class RonaldAzuero implements Developer {
       <td align="center"><img src="https://img.shields.io/badge/Node.js-80%25-green?style=for-the-badge&logo=node.js"/></td>
       <td align="center"><img src="https://img.shields.io/badge/PostgreSQL-75%25-blue?style=for-the-badge&logo=postgresql"/></td>
     </tr>
-  </table>
-  
+</table>
+
 </div>
 
 ---
@@ -174,7 +178,7 @@ class RonaldAzuero implements Developer {
 ## 🏆 Trofeos y Logros
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sherman95&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Sherman95&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4"/>
 </div>
 
 ---
@@ -249,7 +253,7 @@ SQL          ██▓░░░░░░░░░░░░░░░░░░░�
 ## 🎮 Cuando no estoy programando...
 
 <div align="center">
-  
+
 | 🎵 Música | 📚 Aprendizaje | ⚽ Deportes | 🎮 Gaming |
 |:---:|:---:|:---:|:---:|
 | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" width="50"/> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="50"/> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Soccer%20Ball.png" width="50"/> | <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="50"/> |
@@ -300,6 +304,11 @@ SQL          ██▓░░░░░░░░░░░░░░░░░░░�
 
 ### 💬 "¡Hablemos de código, tecnología y el futuro!"
 
+<!-- Mensaje dinámico de contacto -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=16&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=600&lines=📧+Envíame+un+email+a+sherman.2003.a%40gmail.com;💼+Conectemos+en+LinkedIn;🤝+Colaboremos+en+proyectos+increíbles;☕+¡Charlemos+sobre+tecnología!" alt="Contact Typing SVG" />
+</a>
+
 </div>
 
 ---
@@ -307,22 +316,27 @@ SQL          ██▓░░░░░░░░░░░░░░░░░░░�
 ## 💝 ¿Te gustó mi perfil?
 
 <div align="center">
-  
-  Si mi trabajo te parece interesante, ¡no olvides darle una ⭐ a mis repositorios!
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60"> <em><b>¡Me encanta conectar con personas geniales!</b> Si quieres charlar sobre tecnología, proyectos o colaboraciones, ¡no dudes en contactarme!</em>
-  
+
+Si mi trabajo te parece interesante, ¡no olvides darle una ⭐ a mis repositorios!
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="60"> <em><b>¡Me encanta conectar con personas geniales!</b> Si quieres charlar sobre tecnología, proyectos o colaboraciones, ¡no dudes en contactarme!</em>
+
 </div>
 
 ---
 
 <div align="center">
-  
-  <!-- Footer con animación -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  
-  <h3>💫 "El código es poesía que las máquinas pueden entender" 💫</h3>
-  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100"/>
-  
+
+<!-- Footer con animación -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<h3>💫 "El código es poesía que las máquinas pueden entender" 💫</h3>
+
+<!-- Frase motivacional dinámica -->
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=14&duration=4000&pause=2000&color=FFD700&center=true&vCenter=true&width=700&lines=💡+Cada+línea+de+código+es+una+oportunidad+de+innovar;🚀+Transformando+ideas+en+realidad+digital;🌟+El+futuro+se+construye+hoy%2C+línea+por+línea;💻+Programando+con+pasión+desde+Ecuador" alt="Motivation Typing SVG" />
+</a>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100"/>
+
 </div>
