@@ -187,13 +187,50 @@ class RonaldAzuero implements Developer {
 
 <div align="center">
 
-| 🏋️‍♂️ Gym Management System | 🌱 Smart Urban Garden IoT |
-|:---:|:---:|
-| <img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=300&h=200&fit=crop&crop=center" alt="Gym Management" width="300" height="200"/> | <img src="https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=300&h=200&fit=crop&crop=center" alt="IoT Garden" width="300" height="200"/> |
-| Sistema completo de gestión para gimnasios | Dashboard en tiempo real para huertos inteligentes |
-| `Angular` `Node.js` `PostgreSQL` | `Angular` `IoT Sensors` `Real-time Data` |
+| 🔮 Predictor Yacuvina | 🏋️‍♂️ Gym Management System | 🌱 Smart Urban Garden IoT |
+|:---:|:---:|:---:|
+| <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=300&h=200&fit=crop&crop=center" alt="Predictor Yacuvina" width="300" height="200"/> | <img src="https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=300&h=200&fit=crop&crop=center" alt="Gym Management" width="300" height="200"/> | <img src="https://images.unsplash.com/photo-1416879595882-3373a0480b5b?w=300&h=200&fit=crop&crop=center" alt="IoT Garden" width="300" height="200"/> |
+| Sistema avanzado de predicción de datos con IA | Sistema completo de gestión para gimnasios | Dashboard en tiempo real para huertos inteligentes |
+| `Python` `TensorFlow` `Machine Learning` `Data Analysis` | `Angular` `Node.js` `PostgreSQL` | `Angular` `IoT Sensors` `Real-time Data` |
 
 </div>
+
+### 🔮 Predictor Yacuvina
+
+<div align="center">
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop&crop=center" alt="Predictor Yacuvina" width="800"/>
+</div>
+
+#### Descripción
+Predictor Yacuvina es mi proyecto más ambicioso hasta la fecha, un sistema avanzado de análisis predictivo que utiliza inteligencia artificial y aprendizaje automático para procesar grandes volúmenes de datos y generar predicciones precisas para diversos campos de aplicación.
+
+#### Características Principales
+- 📊 Procesamiento y análisis de grandes conjuntos de datos (Big Data)
+- 🧠 Modelos de machine learning personalizables según el dominio
+- 📈 Visualización interactiva de resultados y predicciones
+- 🔄 Sistema de retroalimentación para mejora continua de algoritmos
+- 🌐 API RESTful para integración con otros sistemas
+- 📱 Interfaz de usuario responsiva y accesible
+
+#### Tecnologías Utilizadas
+- **Backend**: Python, TensorFlow, PyTorch, scikit-learn, pandas
+- **Frontend**: Angular, D3.js, Chart.js
+- **Base de Datos**: MongoDB, PostgreSQL
+- **Infraestructura**: Docker, Kubernetes, AWS
+
+#### Estado del Proyecto
+🚧 En desarrollo activo | ⭐ Proyecto destacado | 🔥 Alto impacto
+
+<div align="center">
+<a href="https://github.com/Sherman95/predictor-yacuvina" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Repositorio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Ver_Demo-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+</div>
+
+---
 
 ---
 
